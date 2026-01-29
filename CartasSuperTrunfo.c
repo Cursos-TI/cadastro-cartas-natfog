@@ -20,7 +20,7 @@ int main(){
     float área2, pib2;
     char estado2, código2[4], cidade2[50];
    
- // Área para entrada de dados
+// Área para entrada de dados
 
     printf("CARTA 1 \n");
 
